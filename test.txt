@@ -1,0 +1,14 @@
+1 creez un dossier a l'aide de la commande
+mkdir + nom du dossier
+2 ouvriez le dossier dans vscode avec code .
+3 creez des fichiers dedant le dossier 
+4 on initialse le dossier pour git avec la 
+commande git init
+5 on doit les passer vers la phase du staging
+a l'aide de la commande git add .
+6 verifiez l'etat git du votre dossier a l'aide 
+de la commande git status
+7 qu'est ce vous remarqué?
+8 modifiez le fichier, qsq vous remarquez?
+9 qsq il faut faire?
+10 
